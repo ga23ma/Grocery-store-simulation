@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1541035253 source:c:\users\gabriel-pc\desktop\grocery store simulation\main.cpp
+	<iostream>
+	"queuenode.h"
+	"queuenode.cpp"
+
+1541035082 c:\users\gabriel-pc\desktop\grocery store simulation\node.h
+	<iostream>
+	"data.h"
+	"data.cpp"
+
+1541035109 c:\users\gabriel-pc\desktop\grocery store simulation\node.cpp
+	"node.h"
+
+1541034037 c:\users\gabriel-pc\desktop\grocery store simulation\data.h
+	<iostream>
+
+1541035519 c:\users\gabriel-pc\desktop\grocery store simulation\data.cpp
+	"data.h"
+
+1541035082 c:\users\gabriel-pc\desktop\grocery store simulation\queuenode.h
+	<iostream>
+	"data.h"
+	"data.cpp"
+
+1541035235 c:\users\gabriel-pc\desktop\grocery store simulation\queuenode.cpp
+	"queuenode.h"
+
+1541035235 source:c:\users\gabriel-pc\desktop\grocery store simulation\queuenode.cpp
+	"queuenode.h"
+
